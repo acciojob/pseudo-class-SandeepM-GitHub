@@ -4,13 +4,13 @@
 }
 
 div::before{
-	content: "Before element";
+	content: "Before Element";
 	color:rgb(255, 0, 0);
 	font-size: 20px;
 }
 
 div::after{
-	content: "After element";
+	content: "After Element";
 	color: rgb(255, 0, 0);
 	font-size: 20px;
 }

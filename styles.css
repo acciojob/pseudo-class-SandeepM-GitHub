@@ -5,12 +5,12 @@
 
 div::before{
 	content: "Before element";
-	color: #f00;
+	color:rgb(255, 0, 0);
 	font-size: 20px;
 }
 
 div::after{
 	content: "After element";
-	color: #f00;
+	color: rgb(255, 0, 0);
 	font-size: 20px;
 }

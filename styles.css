@@ -4,13 +4,13 @@
 }
 
 div::before{
-	content: 'Before element';
+	content: "Before element";
 	color: #f00;
 	font-size: 20px;
 }
 
 div::after{
-	content: 'After element';
+	content: "After element";
 	color: #f00;
 	font-size: 20px;
 }
